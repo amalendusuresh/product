@@ -1,4 +1,4 @@
-Product Chaincode
+Hyperledger Fabric - Product Chaincode
 
 Create a Product Details Chaincode with Access Control Lists 
 
