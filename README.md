@@ -13,7 +13,7 @@ Note: Only the user allowed by admin can view products &amp; the only user allow
 5. Remove a Product
 6. Remove All Product
 
-**\Included Components**
+**Included Components**
 
 - Hyperledger Fabric
 - Docker
